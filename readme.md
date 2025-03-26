@@ -15,3 +15,7 @@ This repository has various bundled python packages (python version 3.12.3) that
 
 ### dateutil.zip
 - Python-Dateutil 2.9.0.post0
+
+### snowflake.zip
+- Snowflake-Connector-Python 2.7.9
+- Old version may work better with lambda?
