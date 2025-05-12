@@ -5,10 +5,6 @@ This repository has various bundled python packages (python version 3.12.3) that
 
 ## Files
 
-### snoflake and requests.zip:
-- Snowflake-Connector-Python 3.14.0
-- Requests 2.32.3
-
 ### sqlalchemy.zip
 - SqlAlchemy 2.0.38
 - Snowflake-SqlAlchemy 1.7.3
@@ -18,4 +14,5 @@ This repository has various bundled python packages (python version 3.12.3) that
 
 ### snowflake.zip
 - Snowflake-Connector-Python 2.7.9
-- Old version may work better with lambda?
+- This works with lambda running python 3.9
+- Add this zip as a lambda layer
